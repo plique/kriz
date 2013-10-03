@@ -1,0 +1,27 @@
+commands
+
+say 'hi'
+cd = change directory
+cd .. = go one directory higher
+cd ../../..
+
+cd Anfangsbuchstabe + Tab sucht den Ordner auf dem Directory, der mit dem Anfangsbuchstaben anfängt
+mkdir kreirt einen neuen Ordner im aktuellen Directory 
+git
+
+https://help.github.com/articles/create-a-repo
+Repository -> Ablage (ähnlich wie ein Folder, aber mit mehr Möglichkeiten)
+
+mkdir ~/Hello-World
+# Creates a directory for your project called "Hello-World" in your user directory
+
+cd ~/Hello-World
+# Changes the current working directory to your newly created directory
+
+git init
+# Sets up the necessary Git files
+# 
+Initialized empty Git repository in /Users/you/Hello-World/.git/
+
+touch README
+# Creates a file called "README" in your Hello-World directory
